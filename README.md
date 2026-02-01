@@ -24,11 +24,11 @@ I am a results-driven **Software Developer** specializing in building scalable w
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Am4874&show_icons=true&theme=radical&hide_border=true&align=center" alt="Amit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=an-amit&show_icons=true&theme=radical&hide_border=true&align=center" alt="Amit's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Am4874&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=an-amit&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -37,8 +37,8 @@ I am a results-driven **Software Developer** specializing in building scalable w
 
 <p align="left">
 <a href="https://www.linkedin.com/in/amit-ambedkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amit Ambedkar" height="30" width="40" /></a>
-<a href="https://x.com/bugsbreaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bugsbreaker" height="30" width="40" /></a>
-<a href="https://discord.gg/YYdpxjXB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+<a href="https://x.com/an_amit_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bugsbreaker" height="30" width="40" /></a>
+<a href="https://discord.gg/rq6CMJEkEU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 <a href="https://www.instagram.com/amitto_001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amitto_001" height="30" width="40" /></a>
 </p>
 
