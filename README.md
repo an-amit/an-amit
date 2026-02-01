@@ -24,13 +24,16 @@ I am a results-driven **Software Developer** specializing in building scalable w
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=an-amit&show_icons=true&theme=radical&hide_border=true&align=center" alt="Amit's GitHub Stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=an-amit&show_icons=true&theme=radical&hide_border=true" alt="Amit's GitHub Stats" />
+  
+  <br/>
 
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an-amit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+  <br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=an-amit&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🤝 Connect with me
